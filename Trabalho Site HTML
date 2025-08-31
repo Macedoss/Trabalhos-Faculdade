@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+
+
+
+<html lang="pt-br">
+
+<meta charset="utf-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+<head>
+
+  <title> G3 Noticias </title>
+ 
+
+ </head>
+
+<body>
+  <header>
+    <h1 style="color: red;"> G3 Noticias </h1>
+<nav><ul> <li><a href="#Senadora Damares revela que está com câncer de mama">Senadora Damares revela que está com câncer de mama</a></li>
+  <li><a href="#Adolescentes são atropelados em patinete elétrico">Adolescentes são atropelados em patinete elétrico</a></li>
+  <li><a href="#GDF quer gastar até R$ 2 milhões em fechaduras e cadeados">GDF quer gastar até R$ 2 milhões em fechaduras e cadeados</a></li>
+  <li><a href="#Cuidadora acusa filho de idosa de agressão">Golpes cibernéticos aumentam no DF</a></li>
+  </ul> </nav></header>
+  <main>
+    <section id="Senadora Damares revela que está com câncer de mama">
+      <h2>Damares Alves revela que está com câncer de mama e destaca importância no diagnóstico precoce</h2>
+      <article>
+       
+<img src="https://s2-g1.glbimg.com/Wh8DGaPwMn0DGKkZ-eV7IJU3S5w=/0x0:2160x1274/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/U/o/j4cPBIQiWZ5uZV2PWAZg/damaressenado-1-.jpg">
+       
+ <p> Senadora e ex-ministra explicou que havia comunicado previamente sua equipe, mas decidiu tornar a informação pública ao participar da instalação da subcomissão do Câncer na Comissão de Saúde. </p>
+      </article>
+    </section>      
+<section id= "Adolescentes são atropelados em patinete elétrico">
+        <h2> Adolescentes são atropelados em patinete elétrico no DF; regra do serviço proíbe uso por menores </h2>
+       
+<img src="https://s2-g1.glbimg.com/G5ZG-I5-gHmXoNjNqzZLdRpAczM=/0x0:1280x960/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/X/d/cWAUyVSQCDtkwq3HTzog/whatsapp-image-2025-08-27-at-17.07.49.jpeg">
+     
+<article> <p> Vítimas têm 16 anos; uma fraturou a perna, e outro foi internado com suspeita de traumatismo craniano. Ambos foram levados ao Hospital de Base. </p>
+        </article>
+    </section>
+    <section id= "Moradores são atacados por cachorros na Asa Norte">
+      <h2>Governo do DF quer gastar até R$ 2 milhões em fechaduras e cadeados, inclusive para nova sede fechada há 12 anos</h2>
+      <img src=https://s2-g1.glbimg.com/rF3-BEHV8Ao60sZsUxFGCmLtrYM=/0x0:1000x750/984x0/smart/filters:strip_icc()/s.glbimg.com/jo/g1/f/original/2017/04/13/centro_administrativo_do_df.jpg>
+      <article>
+        <p>Centrad foi 'inaugurado' por Agnelo Queiroz em 2014, mas nunca foi usado de fato. Vigilância atua no local para evitar invasões; governo diz que valor real gasto vai depender da demanda.</p>
+      </article>
+      <section id="Cuidadora acusa filho de idosa de agressão">
+        <h2> Cuidadora acusa filho de idosa de agressão em Brasíliao</h2>
+        <article>
+          <p>Câmeras de segurança de um prédio na Asa Norte, em Brasília, registraram o momento em que uma cuidadora de idosos foi empurrada para fora de um apartamento pelo filho da idosa</p>
+        </article>
+        </main>
+      <footer>
+        <p>© 2025 Página de notcias do distrito federal e entorno.
+        </p>
+      </footer>
+      </body>
+    </html>
